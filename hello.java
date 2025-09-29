@@ -2,8 +2,8 @@ public class hello {
 
   public static void main(String[] args) {
     
-    int first = 100;
-    int second = 120;
+    int first = 10;
+    int second = 12;
 
     // add two numbers
     int sum = first + second;
